@@ -23,7 +23,7 @@ server.register(fastifySwagger, {
 	mode: 'dynamic',
 	openapi: {
 		info: {
-			title: 'Latefah-API',
+			title: 'Lamis-API',
 			version: '0.0.1',
 		},
 	},
